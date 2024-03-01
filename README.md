@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jhassel M.
 - 👀 I’m interested in Backend (Python language).
-- 🌱 I’m currently learning Python, Docker, My SQL, Data bases, Django, Flask.
+- 🌱 I have skills in: Python, Django, My SQL, Git, Github, HTML & CSS, Flask.
 - 💞️ I’m looking to collaborate on a technology company.
 - 📫 How to reach me by: e-mail: Jhass1404@gmail.com - LinkedIn: www.linkedin.com/in/jhassel-lópez/
 - 😄 Pronouns: I wear glasses - Thin build - Very passionate - Responsible - Natural born leader - Team player - Sociable.
